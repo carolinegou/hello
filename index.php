@@ -22,7 +22,15 @@ asdasdasdas dasd asd asd asd asd asd asd ads
 caro a la piscine
 
 
+<<<<<<< HEAD
 merge caro
 
+=======
+oiajsdopiasjdpasjidpasjidpasjdaspo
+ 
+ 
+ 
+ merge toto
+>>>>>>> 756b62f6c03f20e15049f093e1405fae969763de
 </body>
 </html>
